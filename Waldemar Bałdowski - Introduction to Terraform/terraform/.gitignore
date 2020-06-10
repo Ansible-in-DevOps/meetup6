@@ -1,0 +1,7 @@
+*.zip
+bin/*
+.terraform
+terraform*
+.aws*
+credentials
+
